@@ -15,3 +15,8 @@ if( operator == '+'){
     alert('Error')
 }
 
+// if(operator == '+', '-', '*', '/'){
+//     alert('You have entered the wrong sign')
+// }else{
+//     alert('Try again')
+// }
